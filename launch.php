@@ -10,7 +10,7 @@ define("BOT_NAME", "Judi");
 use Discord\Discord;
 
 $discord = new Discord([
-    'token' => 'MjA5NzI1NDc5OTkxNzcxMTM2.CoGu0w.RSXYmnt3Oiyt3FQYHBpXXksbyDc',
+    'token' => 'MjEwMDIwODg0MDEyODU5Mzky.CoIsuA.6IJhAw_zgsRinm6OHe9iKopYVlc',
 ]);
 
 
