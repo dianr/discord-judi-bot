@@ -1,0 +1,13 @@
+{
+    "name": "cress/judi-bot",
+    "description": "Discord Gambling Bot wow-crossgambling style",
+    "authors": [
+        {
+            "name": "Cress",
+            "email": "cressyfrost@hotmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
