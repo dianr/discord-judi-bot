@@ -1,9 +1,4 @@
 <?php
-@ini_set("output_buffering", "Off");
-@ini_set('implicit_flush', 1);
-@ini_set('zlib.output_compression', 0);
-@ini_set('max_execution_time',1200);
-
 include __DIR__.'/vendor/autoload.php';
 define("BOT_NAME", "Judi");
 
